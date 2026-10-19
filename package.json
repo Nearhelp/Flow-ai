@@ -1,0 +1,10 @@
+{
+  "name": "satik-soch-automation",
+  "version": "1.0.0",
+  "description": "Automated Gemini + Google Flow + Facebook Page Pipeline",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "form-data": "^4.0.0",
+    "puppeteer": "^22.6.0"
+  }
+}

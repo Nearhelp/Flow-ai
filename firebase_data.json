@@ -1,0 +1,11 @@
+{
+  "satik_soch_config": {
+    "status": "ON",
+    "topic": "Motivational Shayari in Hindi",
+    "mode": "Text to Image",
+    "aspect_ratio": "1:1 (Square)",
+    "quality": "2k",
+    "image_model": "Nano Banana Pro",
+    "hashtags": "#SatikSoch #MotivationalShayari #HindiShayari #AnmolVachan #SuccessQuotes"
+  }
+}
